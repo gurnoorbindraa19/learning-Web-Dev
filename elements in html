@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My first Webpage</title>
+</head>
+<body>
+
+    <div>
+            
+          <header>
+
+                   This is the Header
+          </header>
+
+
+
+
+    <h1>This is just some text</h1>
+    <h2>This is just some text</h2>
+    <h3>This is just some text</h3>
+    <h4>This is just some text</h4>
+    <h5>This is just some text</h5>
+    <h6>This is just some text</h6>
+
+    <p><b>hdiah</b>diohddowjdihjodjaihjiaohdoiahiohiochaih
+    ihxiahjiasjx</br>hiajhioajiojdaiosjiahdniahnijaioahnk
+    hasudshduhduhduduwhduwhuhduhwuhuwhduduhduhduduhd.</p>
+
+    <img src="https://iheartdogs.com/wp-content/uploads/2017/08/beagles.png" height="100px" width="150px">
+    <hr width=80%>
+    <big>This text is big</big>
+    <small>This text is small</small>
+
+    <h2>These are some of my fav dogs</h2>
+    <ol>
+        <li>Beagle</li>
+        <li>Golden Retriever</li>
+        <li>American Bully</li>
+        <li>Bloodhounds</li>
+
+    </ol>
+
+
+    <ul>
+        <h2>These are some of my favourite countries</h2>
+        <li>Japan</li>
+        <li>Germany</li>
+        <li>Noway</li>
+        <li>France</li>
+
+
+    </ul>
+
+    <div>
+
+        <footer>
+                 This is the footer 
+
+        </footer>
+
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
