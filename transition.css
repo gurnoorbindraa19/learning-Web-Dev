@@ -1,0 +1,19 @@
+div{
+
+    border: 10px solid darkkhaki;
+    background: slateblue;
+    width: 150px;
+    height: 150px;
+
+}
+
+div:hover{
+    transform: rotate(45deg);
+}
+
+
+a{ 
+    display: block;
+    width:100px;
+    height:100px;
+}
